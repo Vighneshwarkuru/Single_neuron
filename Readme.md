@@ -104,6 +104,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Contributors
 
-Created by [Your Name](https://github.com/yourusername)
+[Vighneshwar Kuru](https://github.com/vighneshwarkuru)
+[Sloka reddy](https://github.com/slokareddyyy)
