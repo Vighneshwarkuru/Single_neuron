@@ -3,6 +3,7 @@
 
 A simple interactive Python application that visually demonstrates how a basic artificial neuron learns through training using gradient descent. Built using **Tkinter** for the GUI and **Matplotlib** for animated visualization.
 
+
 ## 📦 Features
 
 - **Trainable single neuron** using mean squared error (MSE) and manual gradient descent.
